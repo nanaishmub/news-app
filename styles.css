@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Bartle&family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "BBH Bartle", "Edu NSW ACT Cursive", monospace;
+}
+
+body {
+    background-color: #EEF4D4;
+}
